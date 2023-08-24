@@ -1,0 +1,19 @@
+.flexallcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    background-color: #2455f4;
+    color: rgb(243, 237, 237);
+    border: 1px solid white;
+    padding:0px 7px;
+    border-radius: 15px;
+    font-family: 'Nunito', sans-serif;
+}
+button{
+    background-color: #1f51f0;
+    color: rgb(243, 237, 237);
+    padding: 8px;
+    font-family: 'Nunito', sans-serif;
+}

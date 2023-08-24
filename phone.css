@@ -1,0 +1,33 @@
+.logo{
+   display: flex;
+   justify-content: center;
+}
+.container{
+    flex-direction: column;
+}
+.cards{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
+    /* margin-left: 25px; */
+    margin-bottom: 12px;
+}
+.slider img{
+    height: 236px;
+    padding: 21px -2px 26px 4px;
+    width: 572px;
+    margin-top: -5px;
+  }
+  ul{
+    visibility:  hidden;
+  }
+  .logo {
+    display: flex;
+    justify-content: center;
+  }
+  .logo img{
+   margin-left: 88px;
+  }
+  .lines{
+    margin-bottom: 12px;
+  }
